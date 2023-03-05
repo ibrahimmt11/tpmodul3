@@ -29,7 +29,7 @@ namespace tpmodul3
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            this.Output.Text = "Halo" + textBox1.Text;
         }
 
         private void label1_Click(object sender, EventArgs e)
